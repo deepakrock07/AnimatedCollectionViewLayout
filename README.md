@@ -84,7 +84,7 @@ You can also write your own animators by implementing the protocol `LayoutAttrib
 
 ## Author
 
-[Deepak Yadav]
+Deepak Yadav
 
 
 ## License
